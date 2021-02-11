@@ -14,3 +14,15 @@ Otherwise, the requirements.txt file can be manually installed In a working Pyth
 ```
 pip install -r requirements.txt
 ```
+
+### Instructions
+
+[Step 1](https://github.com/KenLauLab/STAR_Protocol/blob/master/Step_1_Bioinformatics_Pipeline.ipynb)
+
+[Step 2v1](https://github.com/KenLauLab/STAR_Protocol/blob/master/Step_2_QC_Variant_1.ipynb)
+
+[Step 2v2](https://github.com/KenLauLab/STAR_Protocol/blob/master/Step_2_QC_Variant_2.ipynb)
+
+[Step 3](https://github.com/KenLauLab/STAR_Protocol/blob/master/Step_3_DR_analysis.ipynb)
+
+
